@@ -2,7 +2,7 @@
 
 *Dernière mise à jour : 23 octobre 2026* · Aussi sur le site : https://theruler.fr/privacy · [English version below](#privacy-policy--theruler)
 
-Cette politique explique quelles données le bot TheRuler (sur Discord) et son site traitent, pourquoi, combien de temps, et comment exercer vos droits, dont celui de tout supprimer vous-même.
+Cette politique explique quelles données le bot TheRuler (sur Discord) et son site traitent, pourquoi, combien de temps, et comment exercer vos droits, dont celui de faire supprimer vos données.
 
 ## 1. Responsable du traitement
 
@@ -59,7 +59,7 @@ Le site ne collecte ni votre mot de passe, ni vos messages. Vos données bancair
 - Liste de vos serveurs et rôles : une minute en mémoire.
 - Partie en cours (Loup-Garou, jeux solo) : supprimée à la fin ou à l'abandon de la partie ; le journal technique d'une partie de Loup-Garou (y compris d'éventuelles transcriptions du Loup Bavard) est effacé automatiquement après 30 jours.
 - Rôle personnalisé acheté : supprimé à son expiration, si vous quittez le serveur ou si le rôle est supprimé.
-- Autres données du bot (progression, économie, inventaire, résultats, compte Riot…) : tant que le bot les utilise, ou jusqu'à ce que vous les supprimiez (voir « Vos droits »).
+- Autres données du bot (progression, économie, inventaire, résultats, compte Riot…) : tant que le bot les utilise, ou jusqu'à votre demande de suppression (voir « Vos droits »).
 - Configuration et compteurs d'un serveur : jusqu'à la demande d'un administrateur.
 - Sauvegardes : chiffrées, conservées 30 jours, puis supprimées. Des données que vous avez effacées peuvent donc y subsister jusqu'à 30 jours, sans être utilisées sauf pour restaurer le service après une panne.
 - Journaux techniques : 30 jours au plus.
@@ -96,7 +96,7 @@ La page de paiement est celle de Stripe (checkout.stripe.com) : les cookies que 
 
 Vous disposez d'un droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité de vos données.
 
-Tout supprimer vous-même : la commande /supprimer-mes-donnees du bot, ou le bouton « Tout supprimer (site + bot) » de la page Compte du site, efface tout ce que le bot garde sur vous, sur tous les serveurs (le bouton « Données du site » n'efface que le site). Vos offres en cours sont annulées. Ce qui concerne aussi d'autres joueurs ou doit être gardé (historiques de transactions, résultats de parties, classements, signalements, paiements) n'est pas supprimé mais anonymisé : votre identifiant y est remplacé par un identifiant anonyme. La suppression est refusée pendant une partie de Loup-Garou en cours, ou tant qu'un abonnement Premium se renouvelle (résiliez-le d'abord). Elle est définitive.
+Données du site : le bouton « Supprimer mes données » de la page Compte les efface vous-même, immédiatement. Données du bot : écrivez à theruler.support@gmail.com en indiquant votre identifiant Discord ; elles sont effacées sous 30 jours. Ce qui concerne aussi d'autres joueurs ou doit être gardé (historiques de transactions, résultats de parties, classements, signalements, paiements) n'est pas supprimé mais anonymisé : votre identifiant y est remplacé par un identifiant anonyme.
 
 Vous pouvez aussi délier votre compte Riot avec /lol, et retirer l'accès du site à votre compte dans Discord (Paramètres utilisateur → Applications autorisées).
 
@@ -122,7 +122,7 @@ theruler.support@gmail.com — ou sur le serveur Discord de support : https://di
 
 *Last updated: October 23, 2026* · Also on the website: https://theruler.fr/privacy · [Version française plus haut](#politique-de-confidentialité--theruler)
 
-This policy explains what data the TheRuler bot (on Discord) and its website process, why, for how long, and how to exercise your rights, including deleting everything yourself.
+This policy explains what data the TheRuler bot (on Discord) and its website process, why, for how long, and how to exercise your rights, including having your data deleted.
 
 ## 1. Data controller
 
@@ -179,7 +179,7 @@ The website never collects your password or your messages. Your card details nev
 - List of your servers and roles: one minute in memory.
 - Game in progress (Werewolf, solo games): deleted when the game ends or is abandoned; a Werewolf game's technical log (including any Chatty Wolf transcriptions) is automatically erased after 30 days.
 - Purchased custom role: deleted when it expires, if you leave the server or if the role is deleted.
-- Other bot data (progress, economy, inventory, results, Riot account…): as long as the bot uses it, or until you delete it (see "Your rights").
+- Other bot data (progress, economy, inventory, results, Riot account…): as long as the bot uses it, or until you ask for its deletion (see "Your rights").
 - A server's configuration and counters: until an administrator asks.
 - Backups: encrypted, kept 30 days, then deleted. Data you erased may therefore remain in them for up to 30 days, unused except to restore the service after an outage.
 - Technical logs: 30 days at most.
@@ -216,7 +216,7 @@ The payment page is Stripe's (checkout.stripe.com): cookies Stripe sets there fa
 
 You have the right to access, rectify, erase, restrict, object to and port your data.
 
-Delete everything yourself: the bot's /delete-my-data command, or the "Delete everything (website + bot)" button on the website's Account page, erases everything the bot keeps about you, on every server (the "Website data" button only erases the website). Your open offers are cancelled. What also concerns other players or must be kept (transaction histories, game results, rankings, reports, payments) is not deleted but anonymized: your ID is replaced by an anonymous one. Deletion is refused during a running Werewolf game, or while a Premium subscription still renews (cancel it first). It is permanent.
+Website data: the "Delete my data" button on the Account page erases it yourself, right away. Bot data: write to theruler.support@gmail.com with your Discord ID; it is erased within 30 days. What also concerns other players or must be kept (transaction histories, game results, rankings, reports, payments) is not deleted but anonymized: your ID is replaced by an anonymous one.
 
 You can also unlink your Riot account with /lol, and remove the website's access to your account in Discord (User Settings → Authorized Apps).
 

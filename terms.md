@@ -104,7 +104,7 @@ Le nom TheRuler, son logo et ses visuels appartiennent à l'éditeur. Discord es
 
 ## 16. Suspension
 
-En cas de manquement à ces conditions, l'accès au bot ou au site peut être suspendu, sans préavis, pour un utilisateur ou un serveur. Vous pouvez à tout moment supprimer toutes vos données (voir la politique de confidentialité, « Vos droits »).
+En cas de manquement à ces conditions, l'accès au bot ou au site peut être suspendu, sans préavis, pour un utilisateur ou un serveur. Vous pouvez à tout moment demander la suppression de vos données (voir la politique de confidentialité, « Vos droits »).
 
 ## 17. Modifications et droit applicable
 
@@ -222,7 +222,7 @@ The TheRuler name, logo and visuals belong to the operator. Discord is a tradema
 
 ## 16. Suspension
 
-If these terms are breached, access to the bot or the website may be suspended without notice, for a user or a server. You can delete all your data at any time (see the privacy policy, "Your rights").
+If these terms are breached, access to the bot or the website may be suspended without notice, for a user or a server. You can ask for your data to be deleted at any time (see the privacy policy, "Your rights").
 
 ## 17. Changes and governing law
 
